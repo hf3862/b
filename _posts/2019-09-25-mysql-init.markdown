@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MySQL init"
+title:  "MySQL 5.6 in CentOS 7"
 date:   2019-09-25 11:52:00 +0800
 categories: 
 ---
