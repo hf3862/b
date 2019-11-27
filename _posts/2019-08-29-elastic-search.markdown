@@ -12,6 +12,12 @@ network.host: 0.0.0.0
 http.port: 9200
 {% endhighlight %}
 
+{% highlight yaml %}
+su - elastic
+cd /usr/local/elasticsearch
+./bin/elasticsearch
+{% endhighlight %}
+
 $KIBANA_HOME/config/kibana.yml
 {% highlight yaml %}
 server.host: 0.0.0.0
